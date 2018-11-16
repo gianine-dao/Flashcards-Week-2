@@ -6,7 +6,7 @@ This app allows users to create their own flashcards and use them instantly on t
 
 ### App Walk-though
 
-http://g.recordit.co/BCzZDO6d6m.gif
+<img src=http://g.recordit.co/BCzZDO6d6m.gif width=200><br>
 
 
 ## Required
